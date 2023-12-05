@@ -1,57 +1,261 @@
 {
-"data": [
-{"slug": "products-all","id": "products-all","allProductTitle": "All Products","allProductImages":[
-{"slug":"small-pillow-boxes","productTitle":"Small Pillow Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1632879803small-pillow-boxes-sire-printing.png"},
-{"slug":"kraft-cereal-boxes","productTitle":"Kraft Cereal Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1666201862Custom-Printed-Kraft-Cereal-Boxes-05.png"},
-{"slug":"incense-boxes","productTitle":"Incense Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1664586049Incense%20Boxes%20Sire%20Printing%2002.png"},
-{"slug":"kraft-window-boxes","productTitle":"Kraft Window Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1664588402Kraft%20Window%20Boxes%20SIre%20Printing%20001.png"},
-{"slug":"mailer-boxes-with-handles","productTitle":"Mailer Boxes with Handles","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1665622319Mailer-Boxes-with-Handle-Sire%20Printing%2001.png"},
-{"slug":"cbd-bath-bomb-boxes","productTitle":"CBD Bath Bomb Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627776386CBD-Bath-Bomb-Boxes-01.png"},
-{"slug":"small-mailer-boxes","productTitle":"Small Mailer Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1640140622Small%20Mailer%20Boxes%20Sire%20Printing%2001.png"},
-{"slug":"cbd-stickers","productTitle":"CBD Stickers","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627778089CBD-Stickers-SirePrinting-01.png"},
-{"slug":"cbd-extract-boxes","productTitle":"CBD Extract Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627776596CBD-Extract-Boxes-03.png"},
-{"slug":"custom-tincture-boxes","productTitle":"Custom Tincture Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627776830SirePrinting-Tincture-Boxes-01.png"},
-{"slug":"custom-cigarette-boxes","productTitle":"Custom Cigarette Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627776966Custom-Cigarette-Boxes-SirePrinting%2001.png"},
-{"slug":"cannabis-blunt-boxes","productTitle":"Cannabis Blunt Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627777676Cannabis--Blunt-Boxes-SirePrinting%2001.png"},
-{"slug":"cannabis-display-boxes","productTitle":"Cannabis Display Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627778531Cannabis-Display-Boxes-02.png"},
-{"slug":"cannabis-perfume-boxes","productTitle":"Cannabis Perfume Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627778644Cannabis-Perfume-Boxes-SirePrinting-01.png"},
-{"slug":"cbd-candy-boxes","productTitle":"CBD Candy Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627778736CBD-Candy-Boxes-SirePrinting-01.png"},
-{"slug":"cbd-muscle-rub-boxes","productTitle":"CBD Muscle Rub Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627778989CBD-Muscle-Rub%20Boxes%2001.png"},
-{"slug":"cbd-cosmetic-boxes","productTitle":"CBD Cosmetic Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627779293CBD-Cosmetic-Boxes-SirePrinting%2001.png"},
-{"slug":"cbd-dropper-bottle-boxes","productTitle":"CBD Dropper Bottle Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1628902886Dropper%20Bottle%20Boxes-SirePrnting01.png"},
-{"slug":"cbd-essential-oil-boxes","productTitle":"CBD Essential Oil Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627779425CBD-Essential-Oil-Boxes-01.png"},
-{"slug":"cbd-kush-cannabis-boxes","productTitle":"CBD Kush Cannabis Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627831048CBD%20Kush%20Cannabis%20Boxes%20SirePrinting%2001.png"},
-{"slug":"cbd-oil-boxes","productTitle":"CBD Oil Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627779660CBD%20Oil%20Boxes%20SirePrinting%2001.png"},
-{"slug":"cbd-roll-on-boxes","productTitle":"CBD Roll On Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627830290CBD-Roll-On-Boxes-SirePrinting%2001.png"},
-{"slug":"child-resistant-boxes","productTitle":"Child Resistant Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627830624Child-Resistant-Boxes-SirePrinting%2001.png"},
-{"slug":"custom-cannabis-boxes","productTitle":"Custom Cannabis Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627830764Custom-Cannabis-Boxes-SirePrinting%2001.png"},
-{"slug":"cbd-concentrate-boxes","productTitle":"CBD Concentrate Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627830898CBD-Concentrate-Boxes-SirePrinting%2001.png"},
-{"slug":"custom-hemp-boxes","productTitle":"Custom Hemp Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627831230Custom-Hemp-Boxes-SirePrinting%2001.png"},
-{"slug":"custom-pre-rolled-cones-boxes","productTitle":"Custom Pre Rolled Cones Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627831709Pre-Rolls-Cones-Boxes-SirePrinting%2001.png"},
-{"slug":"custom-vape-boxes","productTitle":"Custom Vape Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627779934Custom-Vape-Boxes-SirePrinting%2001.png"},
-{"slug":"e-liquid-boxes","productTitle":"E Liquid Boxes","productImage":"https://res.cloudinary.com/sireprinting/image/upload/v1601945322/e-liquid-boxes.png"},
-{"slug":"hemp-tea-boxes","productTitle":"Hemp Tea Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627831925Hemp-Tea-Boxes-SirePrinting%2001.png"},
-{"slug":"medical-cannabis-boxes","productTitle":"Medical Cannabis Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627832313Medical-Cannabis-Boxes-SirePrinting%2001.png"},
-{"slug":"pod-vape-boxes","productTitle":"Pod Vape Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627836715Pod-Vape-Boxes-SirePrinting%2001.png"},
-{"slug":"hemp-pre-rolled-boxes","productTitle":"Hemp Pre Rolled Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627835289Hemp-Pre-Rolled-Boxes-SirePrinting%2001.png"},
-{"slug":"cbd-pre-rolls-boxes","productTitle":"CBD Pre Rolls Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627835995Pre-Rolls-Boxes-SirePrinting%2001.png"},
-{"slug":"vape-accessories-boxes","productTitle":"Vape Accessories Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627836895Vape-Accessories-Boxes-SirePrinting%2001.png"},
-{"slug":"vape-juice-bottle-boxes","productTitle":"Vape Juice Bottle Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627836225Vape-Juice-Bottle-Boxes-SirePrinting%2001.png"},
-{"slug":"vape-oil-cartridge-boxes","productTitle":"Vape Oil Cartridge Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627780198Vape-Oil-Cartridge-Boxes-SirePrinting%2001.png"},
-{"slug":"Vape Pen Boxes","productTitle":"Vape Pen Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1627836476Vape-Pen-Boxes-SirePrinting%2001.png"},
-{"slug":"bath-bomb-boxes","productTitle":"Bath Bomb Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1632874083Bath%20Bomb%20Boxes%20Sire%20Printing%2001.png"},
-{"slug":"candle-boxes","productTitle":"Candle Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1632957661Candle%20Boxes%20Sire%20Printing.png"},
-{"slug":"cell-phone-boxes","productTitle":"Cell Phone Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1632928784Cell%20Phone%20Boxes%20Sire%20Printing%2001.png"},
-{"slug":"mug-boxes","productTitle":"Mug Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1632957575Mug%20Boxes%20Sire%20Printing%2001.png"},
-{"slug":"luxury-soap-boxes","productTitle":"Luxury Soap Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1628196728Luxury%20Soap%20Boxes%20SirePrinting%2001.png"},
-{"slug":"soap-gift-boxes","productTitle":"Soap Gift Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1628206006Soap-Gift-Boxes-SirePrinting%2001.png"},
-{"slug":"collapsible-rigid-boxes","productTitle":"Collapsible Rigid Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1632938297Collapsible%20Rigid%20Boxes%20Sire%20Printing%2001.png"},
-{"slug":"luxury-sleeve-boxes","productTitle":"Luxury Sleeve Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1632955051Luxury-Sleeve-Boxes-Sire%20Printing%2001.png"},
-{"slug":"wallet-rigid-boxes","productTitle":"Wallet Rigid Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1632959685Wallet-Rigid-Boxes-Sire%20Printing%2001.png"},
-{"slug":"jewelry-boxes","productTitle":"Jewelry Boxes","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1632953890Jewelry-Boxes-Sire%20Printing%2001.png"},
-{"slug":"clear-stickers","productTitle":"Clear Stickers","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1632937304Clear%20Stickers%20SirePrinting%2001.png"},
-{"slug":"custom-vinyl-stickers","productTitle":"Custom Vinyl Stickers","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1632943546Custom%20Vinyl%20Stickers%20Sire%20Printing%2001.png"},
-{"slug":"die-cut-stickers","productTitle":"Die Cut Stickers","productImage":"https://s3.amazonaws.com/sireprinting.com/products/1666569720Die-Cut-Stickers-Sire-Printing06.png"}
-]
-}]
+  "data": [
+    {
+      "slug": "products-all",
+      "id": "products-all",
+      "allProductTitle": "All Products",
+      "allProductImages": [
+        {
+          "slug": "double-wall-lid",
+          "productTitle": "Double Wall Lid",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600708742/Double%20Wall%20Lid.jpg"
+        },
+        {
+          "slug": "double-wall-tray",
+          "productTitle": "Double Wall Tray",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600709468/Double%20Wall%20Tray.jpg"
+        },
+        {
+          "slug": "fence-partitions",
+          "productTitle": "Fence Partitions",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600710733/Fence%20Partitions.jpg"
+        },
+        {
+          "slug": "five-panel-hanger-box",
+          "productTitle": "Five Panel Hanger Box",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600711109/Five%20Panel%20Hanger%20Box.jpg"
+        },
+        {
+          "slug": "foot-lock-tray",
+          "productTitle": "Mailer Boxes with Handles",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600711389/Foot%20Lock%20Tray.jpg"
+        },
+        {
+          "slug": "four-pack-bottle-carrier",
+          "productTitle": "Four Pack Bottle Carrier",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600714203/Four%20Pack%20Bottle%20Carrier.jpg"
+        },
+        {
+          "slug": "gravity-feed-dispenser-box",
+          "productTitle": "Gravity Feed Dispenser Box",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600714643/Gravity%20Feed%20Dispenser%20Box.jpg"
+        },
+        {
+          "slug": "Half Slotted Container",
+          "productTitle": "Half Slotted Container",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600715245/Half%20Slotted%20Container.jpg"
+        },
+        {
+          "slug": "Handle Pillow Box Style",
+          "productTitle": "Handle Pillow Box Style",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600716610/Handle%20Pillow%20Box.jpg"
+        },
+        {
+          "slug": "Perforated Dispenser Style Boxes",
+          "productTitle": "Perforated Dispenser Style Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600717619/Perforated%20Dispenser%20Box.jpg"
+        },
+        {
+          "slug": "Pillow Style Boxes",
+          "productTitle": "Pillow Style Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600718122/Pillow%20Box.jpg"
+        },
+        {
+          "slug": "Pillow Box Envelope Style Boxes",
+          "productTitle": "Pillow Box Envelope Style Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600718580/Pillow%20Box%20Envelope.jpg"
+        },
+        {
+          "slug": "Punch Partitions",
+          "productTitle": "Punch Partitions",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600719934/Punch%20Partitions.jpg"
+        },
+        {
+          "slug": "Regular Slotted Container",
+          "productTitle": "Regular Slotted Container",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600720596/Regular%20Slotted%20Container.jpg"
+        },
+        {
+          "slug": "Seal End Style Boxes",
+          "productTitle": "Seal End Style Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600723551/Seal%20End%20Boxes.jpg"
+        },
+        {
+          "slug": "Self Lock Cake Boxes",
+          "productTitle": "Self Lock Cake Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600727486/Self%20Lock%20Cake%20Boxes.jpg"
+        },
+        {
+          "slug": "Six Pack Bottle Carrier",
+          "productTitle": "Six Pack Bottle Carrier",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600727907/Six%20Pack%20Bottle%20Carrier.jpg"
+        },
+        {
+          "slug": "Straight Tuck Box",
+          "productTitle": "Straight Tuck Box",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600728275/Straight%20Tuck%20Box.jpg"
+        },
+        {
+          "slug": "Two Piece Box",
+          "productTitle": "Two Piece Box",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600728847/Two%20Piece%20Box.jpg"
+        },
+        {
+          "slug": "Tuck and Display Box",
+          "productTitle": "Tuck and Display Box",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600729288/Tuck%20and%20Display%20Box.jpg"
+        },
+        {
+          "slug": "Tuck and Tongue Box",
+          "productTitle": "Tuck and Tongue Box",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600729591/Tuck%20and%20Tongue%20Box.jpg"
+        },
+        {
+          "slug": "Tuck Top Auto Bottom Box",
+          "productTitle": "Tuck Top Auto Bottom Box",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600729880/Tuck%20Top%20Auto%20Bottom%20Box.jpg"
+        },
+        {
+          "slug": "Tuck Top Snap Bottom Box",
+          "productTitle": "Tuck Top Snap Bottom Box",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600730175/Tuck%20Top%20Snap%20Bottom%20Box.jpg"
+        },
+        {
+          "slug": "Center Fold Woven Labels",
+          "productTitle": "Center Fold Woven Labels",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600799500/Center%20Fold%20Woven%20Labels.png"
+        },
+        {
+          "slug": "Hem Labels",
+          "productTitle": "Hem Labels",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600799962/Hem%20Labels.png"
+        },
+        {
+          "slug": "Text Woven Labels",
+          "productTitle": "Text Woven Labels",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600800814/Text%20Woven%20Labels.png"
+        },
+        {
+          "slug": "Woven Logo Labels",
+          "productTitle": "Woven Logo Labels",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600804737/Woven%20Logo%20Labels.png"
+        },
+        {
+          "slug": "Phone Charger Boxes",
+          "productTitle": "Phone Charger Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600970240/Phone%20Charger%20Boxes.png"
+        },
+        {
+          "slug": "Playing Card Boxes",
+          "productTitle": "Playing Card Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600971258/Playing%20Card%20Boxes.png"
+        },
+        {
+          "slug": "tea-boxes",
+          "productTitle": "Tea Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1696512663-tea-boxes.png"
+        },
+        {
+          "slug": "Vial Glass Bottle Boxes",
+          "productTitle": "Vial Glass Bottle Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600983200/Vial%20Glass%20Bottle%20Boxes.png"
+        },
+        {
+          "slug": "hemp-pre-rolled-boxes",
+          "productTitle": "Hemp Pre Rolled Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627835289Hemp-Pre-Rolled-Boxes-SirePrinting%2001.png"
+        },
+        {
+          "slug": "cbd-pre-rolls-boxes",
+          "productTitle": "CBD Pre Rolls Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627835995Pre-Rolls-Boxes-SirePrinting%2001.png"
+        },
+        {
+          "slug": "vape-accessories-boxes",
+          "productTitle": "Vape Accessories Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627836895Vape-Accessories-Boxes-SirePrinting%2001.png"
+        },
+        {
+          "slug": "vape-juice-bottle-boxes",
+          "productTitle": "Vape Juice Bottle Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627836225Vape-Juice-Bottle-Boxes-SirePrinting%2001.png"
+        },
+        {
+          "slug": "vape-oil-cartridge-boxes",
+          "productTitle": "Vape Oil Cartridge Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627780198Vape-Oil-Cartridge-Boxes-SirePrinting%2001.png"
+        },
+        {
+          "slug": "Vape Pen Boxes",
+          "productTitle": "Vape Pen Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627836476Vape-Pen-Boxes-SirePrinting%2001.png"
+        },
+        {
+          "slug": "bath-bomb-boxes",
+          "productTitle": "Bath Bomb Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632874083Bath%20Bomb%20Boxes%20Sire%20Printing%2001.png"
+        },
+        {
+          "slug": "candle-boxes",
+          "productTitle": "Candle Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632957661Candle%20Boxes%20Sire%20Printing.png"
+        },
+        {
+          "slug": "cell-phone-boxes",
+          "productTitle": "Cell Phone Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632928784Cell%20Phone%20Boxes%20Sire%20Printing%2001.png"
+        },
+        {
+          "slug": "mug-boxes",
+          "productTitle": "Mug Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632957575Mug%20Boxes%20Sire%20Printing%2001.png"
+        },
+        {
+          "slug": "luxury-soap-boxes",
+          "productTitle": "Luxury Soap Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1628196728Luxury%20Soap%20Boxes%20SirePrinting%2001.png"
+        },
+        {
+          "slug": "soap-gift-boxes",
+          "productTitle": "Soap Gift Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1628206006Soap-Gift-Boxes-SirePrinting%2001.png"
+        },
+        {
+          "slug": "collapsible-rigid-boxes",
+          "productTitle": "Collapsible Rigid Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632938297Collapsible%20Rigid%20Boxes%20Sire%20Printing%2001.png"
+        },
+        {
+          "slug": "luxury-sleeve-boxes",
+          "productTitle": "Luxury Sleeve Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632955051Luxury-Sleeve-Boxes-Sire%20Printing%2001.png"
+        },
+        {
+          "slug": "wallet-rigid-boxes",
+          "productTitle": "Wallet Rigid Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632959685Wallet-Rigid-Boxes-Sire%20Printing%2001.png"
+        },
+        {
+          "slug": "jewelry-boxes",
+          "productTitle": "Jewelry Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632953890Jewelry-Boxes-Sire%20Printing%2001.png"
+        },
+        {
+          "slug": "clear-stickers",
+          "productTitle": "Clear Stickers",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632937304Clear%20Stickers%20SirePrinting%2001.png"
+        },
+        {
+          "slug": "custom-vinyl-stickers",
+          "productTitle": "Custom Vinyl Stickers",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632943546Custom%20Vinyl%20Stickers%20Sire%20Printing%2001.png"
+        },
+        {
+          "slug": "die-cut-stickers",
+          "productTitle": "Die Cut Stickers",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1666569720Die-Cut-Stickers-Sire-Printing06.png"
+        }
+      ]
+    }
+  ]
 }
