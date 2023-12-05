@@ -1,5 +1,5 @@
 {"data": [
-{"slug": "products-all","id": "products-all","allProductTitle": "All Products","allProductImages": [
+{"slug": "products-all","id": "products-all","allProductImages": [
 {"slug": "double-wall-lid","productTitle": "Double Wall Lid","productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600708742/Double%20Wall%20Lid.jpg"},
 {"slug": "double-wall-tray","productTitle": "Double Wall Tray","productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600709468/Double%20Wall%20Tray.jpg"},
 {"slug": "fence-partitions","productTitle": "Fence Partitions","productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600710733/Fence%20Partitions.jpg"},
